@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/typing-speed/static/css/main.e740c35c.css",
+    "main.js": "/typing-speed/static/js/main.3b8190e0.js",
+    "static/media/1.png": "/typing-speed/static/media/1.1595a0420e4f5086be1e.png",
+    "index.html": "/typing-speed/index.html",
+    "main.e740c35c.css.map": "/typing-speed/static/css/main.e740c35c.css.map",
+    "main.3b8190e0.js.map": "/typing-speed/static/js/main.3b8190e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e740c35c.css",
+    "static/js/main.3b8190e0.js"
+  ]
+}
